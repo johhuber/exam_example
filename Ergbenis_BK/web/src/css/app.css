@@ -1,0 +1,74 @@
+body, html, #root { height: 100%; }
+
+.auth-form{
+  width: 300px;
+
+  max-width: 350px;
+  min-width: 200px;
+  position:relative;
+  left: 50%;
+  top: 20vh;
+  background-color: grey;
+  padding: 10px;
+  border-radius: 3%;
+
+}
+
+.register-form{
+  width: 300px;
+
+  max-width: 350px;
+  min-width: 200px;
+  position:relative;
+  left: 50%;
+
+  background-color: grey;
+  padding: 10px;
+  border-radius: 3%;
+}
+
+#listitem{
+  width: 300px;
+
+  max-width: 350px;
+  min-width: 200px;
+  position:relative;
+  left: 50%;
+  background-color: grey;
+  padding: 10px;
+  border-radius: 3%;
+}
+.todo-form{
+  width: 300px;
+
+  max-width: 350px;
+  min-width: 200px;
+  position:relative;
+  left: 50%;
+
+  background-color: grey;
+  padding: 10px;
+  border-radius: 3%;
+}
+
+.add-form{
+  width: 300px;
+
+  max-width: 350px;
+  min-width: 200px;
+  height: auto;
+  position:relative;
+  left: 50%;
+
+  background-color: grey;
+  padding: 10px;
+  border-radius: 3%;
+ z-index:100;
+}
+
+.todo-list-item{
+  padding: 10px;
+  box-shadow: 5px;
+
+}
+/* TODO add styles for your application here */

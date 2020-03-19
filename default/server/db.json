@@ -1,0 +1,29 @@
+{
+    "users": [{
+        "id": "77027ee9-ba11-4675-8977-0359a7992022",
+        "email": "test",
+        "firstName": "test",
+        "lastName": "test",
+        "passwordHash": "$2b$10$8nMyRFr7mm1AMtJ2guXOsua.m1ol.bqcvCAJ1cXImWfZVBUNhckiK"
+    }],
+    "sessions": [],
+    "todos": [{
+            "user": "77027ee9-ba11-4675-8977-0359a7992022",
+            "text": "todo 1",
+            "done": false,
+            "id": "5ae209fc-c243-4dcd-b9a4-354e29bfd486"
+        },
+        {
+            "user": "77027ee9-ba11-4675-8977-0359a7992022",
+            "text": "todo 2",
+            "done": false,
+            "id": "5ae209fc-c243-4dcd-b9a4-354e29bfd487"
+        },
+        {
+            "user": "77027ee9-ba11-4675-8977-0359a7992022",
+            "text": "todo 3",
+            "done": true,
+            "id": "5ae209fc-c243-4dcd-b9a4-354e29bfd488"
+        }
+    ]
+}
